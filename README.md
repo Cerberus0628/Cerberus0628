@@ -2,7 +2,7 @@
 - 👀 I’m interested in music
 - 🌱 I’m currently learning something
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me contactme0628@gmail.com
+- 📫 How to reach me ...
 
 <!---
 Cerberus0628/Cerberus0628 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
